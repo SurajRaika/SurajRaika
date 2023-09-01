@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SurajRaika
-- 👀 I’m interested in Automation in Defence sector...
-- 🌱 I’m currently learning Computer Vision
-- 💞️ I’m looking to collaborate on Opencv Project
+- 
+- 👀 A self taught programmer
+- 🌱 I mainly work with Python, JavaScript and Rust on a daily basis.
+- 💞️ Living in Jodhpur Rajisthan 
 - 📫 You can reach me on linkedin https://www.linkedin.com/in/suraj-raika-b47593236
 
 <!---
